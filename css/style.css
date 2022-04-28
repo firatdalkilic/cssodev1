@@ -1,0 +1,63 @@
+html {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/images/background.jpg);
+    width: 100%;
+}
+
+#nav-bar {
+    background-color: aqua;
+    height: 40px;
+    padding-left: 475px;
+}
+
+#logo {
+    padding-left: 550px;
+}
+
+#form {
+    padding-left: 650px;
+}
+
+#products {
+    padding-left: 600px;
+}
+
+.menu {
+    list-style: none; display: block;
+}
+
+.menu li {
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+.nav-bar {
+    font-size: 20px;
+}
+
+ul {    
+    color: orangered;
+}
+
+p {
+    color: orangered;
+}
+
+.buton-arka {
+    background-color:darkgray;
+}
+
+.biz {
+    font-size: 20px;
+}
+
+body > div {
+    height:1000px;
+    
+}
+
+footer {
+    height: 25px;
+}
