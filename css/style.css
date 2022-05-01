@@ -23,22 +23,26 @@ html {
     padding-left: 600px;
 }
 
-.menu {
-    list-style: none; display: block;
+
+.menu{
+    list-style: none;
+    display:block;
 }
 
 .menu li {
     display: inline;
     margin: 10px;
-    position: relative;
 }
-
 .nav-bar {
     font-size: 20px;
 }
 
 ul {    
     color: orangered;
+}
+
+a {
+    text-decoration: none;
 }
 
 p {
